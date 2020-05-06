@@ -90,7 +90,7 @@ namespace assignment2
                      }
                      if(flag == 0)
                      {
-                         printf("\n %s is a Palindrome String", str);
+                         printf("\n %s is a Palindrome String", str); //printf is for C and not C#
                      }
                      else 
                      {
